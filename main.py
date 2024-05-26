@@ -10,7 +10,7 @@ class ChatbotWindow(QMainWindow):
     def __init__(self):
         super().__init__()
 
-        self.setMinimumSize(700, 500)
+        self.setMinimumSize(610, 390)
 
 
         # Add chat area widget
