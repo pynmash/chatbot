@@ -34,8 +34,6 @@ class ChatbotWindow(QMainWindow):
 
 
 
-class Chatbot:
-    pass
 
 
 app = QApplication(sys.argv)
